@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
         // HOME SCREEN WORK
         System.out.println("HOME SCREEN");
+
+        /// ADD TO CART
+        System.out.println("ADD CART SCREEN");
     }
 }
